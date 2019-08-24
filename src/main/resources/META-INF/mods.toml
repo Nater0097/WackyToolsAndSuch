@@ -6,11 +6,9 @@ loaderVersion="[28,)" #mandatory (26 is current forge version)
 
 modId="wtas" #mandatory
 
-version="0.1.0" #mandatory
+version="1.0.0" #mandatory
 
 displayName="WackyToolsAndSuch" #mandatory
-
-credits="Harry Talks for making a server hopefully with this mod on it" #optional
 
 authors="Thermionic" #optional
 

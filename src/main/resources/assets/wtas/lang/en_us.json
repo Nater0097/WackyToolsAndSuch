@@ -1,4 +1,19 @@
 {
 	"item.wtas.soap": "Soap",
-	"itemGroup.wtas": "WackyToolsAndSuch"		
+	"itemGroup.wtas": "WackyToolsAndSuch",
+	"block.wtas.soap_block": "Soap Block",
+	"block.wtas.slippery_launcher": "Slippery Launcher",
+	"item.wtas.soap_sword": "Soap Sword",
+	"item.wtas.soap_axe": "Soap Axe",
+	"item.wtas.soap_pickaxe": "Soap Pickaxe",
+	"item.wtas.soap_hoe": "Soap Hoe",
+	"item.wtas.soap_shovel": "Soap Shovel",
+	"item.wtas.soap_helmet": "Soap Helmet",
+	"item.wtas.soap_chestplate": "Soap Chestplate",
+	"item.wtas.soap_leggings": "Soap Leggins",
+	"item.wtas.soap_boots": "Soap Boots",
+	"item.wtas.slippery_substance": "Slippery Substance"
+	
+						
+	
 }

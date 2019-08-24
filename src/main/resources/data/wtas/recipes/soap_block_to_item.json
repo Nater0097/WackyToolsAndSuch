@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "wtas:soap_block"
+        }
+    },
+    "result": {
+        "item": "wtas:soap",
+        "count": 9
+    }
+}

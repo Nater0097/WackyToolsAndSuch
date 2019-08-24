@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "wtas:block/soap_block" }
+    }
+}
