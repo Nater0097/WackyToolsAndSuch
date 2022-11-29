@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#M#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "M": {
+            "item": "wtas:slippery_substance"
+        }
+    },
+    "result": {
+        "item": "wtas:slippery_launcher",
+        "count": 1
+    }
+}

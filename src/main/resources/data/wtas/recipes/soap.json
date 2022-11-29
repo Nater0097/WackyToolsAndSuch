@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pink_dye"
+        },
+        "C": {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    "result": {
+        "item": "wtas:soap",
+        "count": 1
+    }
+}
