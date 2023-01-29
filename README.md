@@ -38,4 +38,4 @@ WackyToolsAndSuch is a minecraft modification for 1.14.4 that was made for week 
 
 ## License
 
-All Rights Reserved unless otherwise explicitly stated.
+MIT License 
